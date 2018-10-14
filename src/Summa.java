@@ -11,8 +11,8 @@ public class Summa {
 
     public void run() {
         try {
-            in = new FastScanner(new File(".in"));
-            out = new PrintWriter(new File(".out"));
+            in = new FastScanner(new File("1.in"));
+            out = new PrintWriter(new File("1.out"));
 
             solve();
 
